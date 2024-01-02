@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606299938771",
+    "project_id": "gamefirebaselogin",
+    "storage_bucket": "gamefirebaselogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606299938771:android:9ed3f0ae348b4c4a5f9926",
+        "android_client_info": {
+          "package_name": "com.example.game_adventure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkEYf9G_ZLw5HqxjlzAsEMj411JT72NYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

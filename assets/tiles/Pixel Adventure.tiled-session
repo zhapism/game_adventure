@@ -1,0 +1,63 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level-02.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Pixel Adventure.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level-01.tmx": {
+            "expandedObjectLayers": [
+                2,
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 359.33333333333326,
+                "y": 179.33333333333334
+            }
+        },
+        "level-02.tmx": {
+            "expandedObjectLayers": [
+                2,
+                3
+            ],
+            "scale": 1.7871875,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 300.47211050883027,
+                "y": 182.96905053331005
+            }
+        }
+    },
+    "last.imagePath": "E:/Documents/MODUL MOBILE/Praktikum/game_adventure/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "Pixel Adventure.tsx",
+        "level-01.tmx",
+        "level-02.tmx"
+    ],
+    "project": "Pixel Adventure.tiled-project",
+    "property.type": "float",
+    "recentFiles": [
+        "Pixel Adventure.tsx",
+        "level-01.tmx",
+        "level-02.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
